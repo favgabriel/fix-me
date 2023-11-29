@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fix me!:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fix_me__jar</output-path>
+    <root id="archive" name="Fix me!.jar">
+      <element id="module-output" name="Fix me!" />
+    </root>
+  </artifact>
+</component>
